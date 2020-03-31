@@ -1,0 +1,12 @@
+.add-button
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	border-radius: 0 !important;
+	width: 100%;
+}
+.add-button-row
+{
+	position: relative;
+}
